@@ -36,14 +36,14 @@ pip3 install openai-agents
 
 To run `main.py`, use:
 ```bash
-python main.py
+python3 main.py
 ```
 
-If any environment variables are required (like API keys), specify them in a `.env` file and load them using `dotenv`.
-
+Environment Variables
 Example `.env` file:
 ```
-API_KEY=your_api_key_here
+OPENAI_API_KEY=...
+AGENTOPS_API_KEY=...
 ```
 
 ---
