@@ -49,5 +49,5 @@ AGENTOPS_API_KEY=...
 ---
 
 ## ▶️ Ouput
+
 Check ```report.md``` for a full report on the stock.
----
