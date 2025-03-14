@@ -14,7 +14,7 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 AGENTOPS_API_KEY = os.getenv("AGENTOPS_API_KEY")
-agentops.init(AGENTOPS_API_KEY, default_tags=["chat_simulation"])
+agentops.init(api_key=AGENTOPS_API_KEY)
 
 
 
