@@ -1,5 +1,3 @@
-import asyncio
-
 import openai
 
 from agents import Agent, Runner, WebSearchTool, trace
@@ -9,14 +7,14 @@ from dotenv import load_dotenv
 
 import agentops
 
-from date import time_now, time_one_week_ago
+from date import time_now
 
 load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 AGENTOPS_API_KEY = os.getenv("OPENAI_API_KEY")
-# agentops.init(AGENTOPS_API_KEY, default_tags=["chat_simulation"])
+agentops.init(AGENTOPS_API_KEY, default_tags=["chat_simulation"])
 
 instructions = f"You are an extremely financially-literate agent that is up to date ({time_now()}) with the Nasdaq and NYSE markets and their stocks."
 
