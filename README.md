@@ -25,7 +25,9 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ### 3️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip3 install agentops
+pip3 install python-dotenv
+pip3 install openai-agents
 ```
 
 ---
