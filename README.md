@@ -5,7 +5,7 @@ Given a Nasdaq or NYSE ticker of your choice, this AI agent will conduct a thoro
 -If competitors are doing things that could impact your company's status.
 -If recent political activity or government regulations could help or harm the company's status.
 -If the CEO's recent actions could impact the way the company is being led.
--If the company's most recent earnings report (10-Q) provides insight into company performance.
+-If the company's most recent earnings report provides insight into company performance.
 
 ---
 
