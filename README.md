@@ -47,16 +47,3 @@ AGENTOPS_API_KEY=...
 ```
 
 ---
-
-## 🛠 Troubleshooting
-
-- **Missing dependencies?** Run `pip install -r requirements.txt` again.
-- **Python version issues?** Ensure you're using Python 3.8+ (`python --version`).
-- **Permissions error?** Try running `chmod +x main.py` and execute again.
-
----
-
-## 📜 Contributing
-Guidelines for contributing to the project.
-
----
