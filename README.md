@@ -2,10 +2,10 @@
 
 ### 📌 About
 Given a Nasdaq or NYSE ticker of your choice, this AI agent will conduct a thorough analysis to help you understand why the company's stock is doing well or not. This AI agent will check the following:
--If competitors are doing things that could impact your company's status.
--If recent political activity or government regulations could help or harm the company's status.
--If the CEO's recent actions could impact the way the company is being led.
--If the company's most recent earnings report provides insight into company performance.
+- If competitors are doing things that could impact your company's status.
+- If recent political activity or government regulations could help or harm the company's status.
+- If the CEO's recent actions could impact the way the company is being led.
+- If the company's most recent earnings report provides insight into company performance.
 
 ---
 
